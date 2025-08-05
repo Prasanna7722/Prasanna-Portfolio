@@ -8,7 +8,7 @@ I'm a passionate software developer with hands-on experience in front-end and ba
 
 ## 🌐 Live Demo
 
-https://Prasanna7722.github.io/Prasanna_Portfolio/
+https://Prasanna7722.github.io/Prasanna-Portfolio/
 
 ## 🛠️ Technologies Used
 
