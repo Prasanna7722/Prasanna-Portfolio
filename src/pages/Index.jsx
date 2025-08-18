@@ -178,11 +178,11 @@ const Index = () => {
 
   const projects = [
     {
-      title: "Calculator",
-      description: "A simple and functional calculator built using core web technologies. It performs basic arithmetic operations like addition, subtraction, multiplication, and division with a clean and responsive user interface.",
+      title: "TIC-TAC-TOE",
+      description: "A classic Tic-Tac-Toe game built using HTML, CSS, and JavaScript. It features a clean and responsive user interface and allows two players to play in turns. The game detects win, draw, and provides a reset option for continuous play.",
       techStack: ["HTML", "CSS", "JavaScript"],
-      githubUrl: "https://github.com/Prasanna7722/Calculator1",
-      liveUrl: "#"
+      githubUrl: "https://github.com/Prasanna7722/TIC-TAC-TOE",
+      liveUrl: "https://prasanna7722.github.io/TIC-TAC-TOE/"
     },
     {
       title: "Event Management System",
@@ -190,6 +190,20 @@ const Index = () => {
       techStack: ["React", "Spring Boot", "MySQL"],
       githubUrl: "https://github.com/Prasanna7722/Event-Management-System",
       liveUrl: "#"
+    }, 
+    {
+      title: "Stopwatch",
+      description:  "A sleek and responsive stopwatch application built with core web technologies. It allows users to start, pause, reset, and record lap times with precision. The interface is designed for ease of use and real-time performance tracking.",
+      techStack: ["HTML", "CSS", "JavaScript"],
+      githubUrl: "https://github.com/Prasanna7722/Stopwatch",
+      liveUrl: "https://prasanna7722.github.io/Stopwatch/"
+    }, 
+    {
+      title: "To-Do-Web App",
+      description:  "A simple and efficient to-do list application that helps users manage their daily tasks. Features include adding, editing, deleting tasks, and marking them as completed. Designed with a clean UI and local storage support for persistent data.",
+      techStack: ["HTML", "CSS", "JavaScript"],
+      githubUrl: "https://github.com/Prasanna7722/TO-DO-WEB-APP",
+      liveUrl: "https://prasanna7722.github.io/TO-DO-WEB-APP/"
     }, 
   ];
 
