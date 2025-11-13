@@ -17,7 +17,7 @@ import { CodingHandles } from '@/components/CodingHandles';
 import { RotatingText } from '@/components/RotatingText';
 import {
   ReddyPhoto,
-  ReddyPrasanna_Resume,
+  prasannaResume,
   AWSInternship,
   TCS,
   Mern,
@@ -447,8 +447,8 @@ const Index = () => {
                   <span className="text-xs text-slate-400">(Opens/downloads the actual file)</span>
                 </p>
                 <a
-                  href={ReddyPrasanna_Resume}
-                  download="ReddyPrasanna_Resume.pdf"  
+                  href={prasannaResume}
+                  download="prasannaResume.pdf"  
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block"

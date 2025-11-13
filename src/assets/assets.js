@@ -11,7 +11,7 @@ import AI from './AI.jpg';
 import code360 from './code360.jpg';
 
 // Resume
-import ReddyPrasanna_Resume from './ReddyPrasanna_Resume.pdf';
+import prasannaResume from './prasannaResume.pdf';
 
 // Coding Platform Logos
 import CodeChefLogo from './CodeChef.png';
@@ -20,7 +20,7 @@ import HackerRankLogo from './HackerRank.png';
 
 export {
   ReddyPhoto,
-  ReddyPrasanna_Resume,
+  prasannaResume,
   AWSInternship,
   TCS,
   Mern,
